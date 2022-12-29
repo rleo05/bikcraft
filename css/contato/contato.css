@@ -3,7 +3,6 @@
 }
 
 .contato {
-  box-shadow: inset ;
   display: grid;
   grid-template-columns: 5fr 7fr;
 }
